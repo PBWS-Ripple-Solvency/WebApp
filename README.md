@@ -37,6 +37,7 @@ Soon
  - [Rainbowkit](https://www.rainbowkit.com/)
  - [wagmi](https://wagmi.sh/)
  - [XRPL](https://xrpl.org/)
+ - [Ring Signatures](https://medium.com/asecuritysite-when-bob-met-alice/ring-signatures-and-anonymisation-c9640f08a193)
 
 ## Supported networks 🛰️
 
