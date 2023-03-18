@@ -9,7 +9,7 @@ function AppRoutes() {
 
     return (
       <Routes>
-        <Route path="/" element={<Main />} />
+        <Route path="/" element={<Main/>} />
         <Route path="*" element={<NotFound/>} />
         <Route path="/generateproof" element={<GenerateProof/>} />
         <Route path="/verifyproof" element={<VerifyProof/>} />

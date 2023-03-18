@@ -1,5 +1,5 @@
 import React from "react";
-import rpPLogo from "./Ripple_solvancy_logo_trsp.png";
+import rpPLogo from "./xrpl_solvancy_logo_trsp.png";
 
 function Main(){
     return(
@@ -17,7 +17,7 @@ function Main(){
             <div className="intro">
                 <h2>Executive Summary</h2>
                 <p>
-                Ripple Solvency Proof is a solution that addresses the growing need for privacy and anonymity in the blockchain ecosystem by providing a means for individuals to prove solvency without revealing their wallet address or transaction history.<br></br>
+                XRPL Solvency Proof is a solution that addresses the growing need for privacy and anonymity in the blockchain ecosystem by providing a means for individuals to prove solvency without revealing their wallet address or transaction history.<br></br>
                 <br></br>This is achieved through the use of <b>cryptographic ring signature </b> technology and other cryptographic means to generate anonymous, verifiable, and valid solvency proofs at a specific point in time.<br></br>
                 <br></br>The solution is designed for individuals who value their privacy and want to maintain anonymity while transacting on blockchain platforms, and it offers a unique value proposition by allowing users to prove solvency without compromising their privacy.
                 </p>
