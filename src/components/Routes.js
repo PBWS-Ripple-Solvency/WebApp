@@ -4,6 +4,7 @@ import Main from "./pages/Main.js";
 import NotFound from "./pages/NotFound.js";
 import GenerateProof from "./pages/GenerateProof.js";
 import VerifyProof from "./pages/VerifyProof.js";
+import ZkTransfer from "./pages/ZkTransfer.js";
 
 function AppRoutes() {
 
@@ -13,6 +14,7 @@ function AppRoutes() {
         <Route path="*" element={<NotFound/>} />
         <Route path="/generateproof" element={<GenerateProof/>} />
         <Route path="/verifyproof" element={<VerifyProof/>} />
+        <Route path="/zktransfer" element={<ZkTransfer/>} />
       </Routes>
     );
   }

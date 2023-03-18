@@ -46,6 +46,8 @@ return (
 <Button color='inherit' component={NavLink} to='/' style={{display: width < 800 ? 'none' : 'block'}}>Home</Button>
 <Button color='inherit' component={NavLink} to='/generateproof' style={{display: width < 800 ? 'none' : 'block'}}>Generate Proof</Button>
 <Button color='inherit' component={NavLink} to='/verifyproof' style={{display: width < 800 ? 'none' : 'block'}}>Verify Proof</Button>
+<Button color='inherit' component={NavLink} to='/zktransfer' style={{display: width < 800 ? 'none' : 'block'}}>Zk transfer</Button>
+
 
 </Hidden>
 <Hidden mdUp>
@@ -65,6 +67,9 @@ return (
     </ListItem>
     <ListItem button component={NavLink} to='/verifyproof' onClick={() => setIsOpen(false)}>
       <ListItemText primary='Verify Proof'/>
+    </ListItem>
+    <ListItem button component={NavLink} to='/zktransfer' onClick={() => setIsOpen(false)}>
+      <ListItemText primary='Zk transfer'/>
     </ListItem>
     
   </List>
