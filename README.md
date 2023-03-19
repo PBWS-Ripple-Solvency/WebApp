@@ -47,9 +47,8 @@ Our final objective is to incorporate all of this into the front end, but for th
 Our application is designed for the [XRP Ledger](https://xrpl.org/).
 
 **Proof of Solvancy :**  
-Mainnet (live)
-
-Testnet (live) : 
+Mainnet (live)  
+Testnet (live)
 
 ## Contribute ✨
 
