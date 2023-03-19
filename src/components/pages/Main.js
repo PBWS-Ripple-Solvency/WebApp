@@ -1,10 +1,8 @@
 import React from "react";
-import rpPLogo from "./xrpl_solvancy_logo_trsp.png";
 
 function Main(){
     return(
         <div className="main">
-            {/* <img src={rpPLogo} alt="logo" className="main__logo" /> */}
             
             <div className="intro">
                 <h1>Introduction</h1>
