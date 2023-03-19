@@ -1,6 +1,6 @@
 # **Ripple Solvency Proof - Front End Application**
 
-This front end application in react developed during the **PBWS 2023 hackathon** aims to offer you the possibility to interact with the different ring signature functionalities and to issue proof of solvency for different use cases within the Ripple Ecosystem.
+This front end application in react developed during the **PBWS 2023 hackathon** aims to offer you the possibility to interact with the different ring signature functionalities and to issue proof of solvency for different use cases within the XRPL and Ripple Ecosystem.
 
 ## **Configuration** 📝
 
